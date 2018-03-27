@@ -1,0 +1,13 @@
+{
+  "name": "pysensors",
+  "version": "0.0.1",
+  "description": "lm sensors reader",
+  "main": "app.py",
+  "author": "tectiv3",
+  "license": "mit",
+  "language":"python",
+  "scripts": {
+     "start": "python -u app.py"
+    },
+   "dependency": "pysensors"
+}
